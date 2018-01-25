@@ -31,3 +31,10 @@ The remaining ashes and soot are enriched with nuclear elements like Uranium and
 
 Coal toxic emissions map
 -----------------
+This idea is related to the emissions of other environmentally harmful substances like NOx and PM10 dust.
+Here is a list of toxic emissions from coal combustion in German power plants (see https://energy-charts.de):
+
+Heavy metals:
+- As, Pb, Cd, Cr, Cu, Ni, Hg, Zn
+Noxious gases:
+- ammoniak, benzene, chlorine, dioxins, furans, fine particulate matter, fluorine, carbon monoxide, sulfur oxides, nitric oxides
