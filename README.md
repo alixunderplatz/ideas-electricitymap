@@ -36,5 +36,7 @@ Here is a list of toxic emissions from coal combustion in German power plants (s
 
 Heavy metals:
 - As, Pb, Cd, Cr, Cu, Ni, Hg, Zn
+
+
 Noxious gases:
 - ammoniak, benzene, chlorine, dioxins, furans, fine particulate matter, fluorine, carbon monoxide, sulfur oxides, nitric oxides
