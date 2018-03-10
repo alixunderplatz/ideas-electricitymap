@@ -1,4 +1,4 @@
-# Ideas for improving electricitymap
+# Ideas for additional functions on electricitymap
 This is a collection of ideas for additional functions, infos and data related to the functions of https://electricitymap.org
 
 *Everything you find here is coming from my own process of thoughts for improvements without any consultation with the team. Some of it may be logical extensions, some might be influenced and biased by my personal perspectives, and other stuff may be just for fun.*
